@@ -42,5 +42,4 @@ class Helikopteri(models.Model):
     class Meta:
         managed = False
         db_table = 'helikopteri'
-        db_table_comment = 'Podaci o helikopterima'
 
